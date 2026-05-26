@@ -8,12 +8,12 @@
 
 ## 1. What This Repo Is
 
-`aegient` is the corporate web presence for Aegient Ltd, the legal entity behind the Quiet product suite. It is a static site hosted on Cloudflare Pages, deployed from the `tickbox-smc/aegient` GitHub repository.
+`aegient` is the corporate web presence for Aegient Ltd, the legal entity behind the Quiet product suite. It is a static site hosted on Cloudflare Pages, deployed from the `aegient-ltd/aegient` GitHub repository.
 
 The site publishes publicly verifiable company information: registration number, registered address, product operator statement, and contact address. It is not a marketing site — that role belongs to `getquiet.co.uk`.
 
 **Domain:** `aegient.com`
-**Hosting:** Cloudflare Pages — connected to `tickbox-smc/aegient`
+**Hosting:** Cloudflare Pages — connected to `aegient-ltd/aegient`
 **Local path:** `/Users/chrisfalck/aegient`
 
 ---
